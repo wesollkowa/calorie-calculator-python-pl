@@ -1,21 +1,3 @@
-'''
-PPM:
-kobiety: 10*[kg] + 6,25*[cm] - 5*(wiek) - 161
-mężczyźni: 10*[kg] + 6,25*[cm] - 5*(wiek) + 5
-CPM:
-PPM*PAL
-PAL:
-1.2 - prawie całkowity brak aktywności, siedzący tryb życia
-1.3 - mało ruchu, kilka tys. kroków dziennie
-1.4 - lekka aktywność, troche spacerów
-1.5 - umiarkowany ruch, regularne chodzenie
-1.6 - aktywność kilka razy w tygodniu
-1.7 - aktywny tryb życia, częste treningi
-1.8 - wysoka aktywność fizyczna
-1.9 - ciężkie treningi lub praca fizyczna
-2.0 - bardzo wysoki wysiłek CODZIENNIE, sport wyczynowy
-'''
-
 print("KALKULATOR KALORII")
 while True:
     płeć = input("kobieta/mężczyzna [k/m]: ")
